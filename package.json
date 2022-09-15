@@ -1,0 +1,24 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rashi2730/task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rashi2730/task/issues"
+  },
+  "homepage": "https://github.com/Rashi2730/task#readme",
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "moment": "^2.29.4",
+    "parcel-bundler": "^1.12.5"
+  },
+  "description": ""
+}
